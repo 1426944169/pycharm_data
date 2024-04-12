@@ -19,6 +19,7 @@ for i in range(1,10):
 cursor.close()
 mysql.close()
 print('插入成功')
+print("第二次插入成功")
 
 
 # cursor.close()
